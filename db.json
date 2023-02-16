@@ -1,0 +1,26 @@
+{
+  "Estudiantes": [
+    {
+      "Nombre": "Alecio",
+      "Curso": "Profesor",
+      "id": 1
+    },
+    {
+      "Nombre": "Alecio",
+      "Curso": "Profesor",
+      "id": 2
+    },
+    {
+      "Nombre": "Alecio",
+      "Curso": "Profesor",
+      "id": 3
+    }
+  ],
+  "Asignaturas": [
+    {
+      "id": 1,
+      "Nombre": "Informatica",
+      "Codigo": "01"
+    }
+  ]
+}
